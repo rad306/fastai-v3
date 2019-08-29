@@ -11,6 +11,7 @@ ul {
 
 li {
   float: left;
+  color: #ffffff
 }
 
 li a {
@@ -53,6 +54,10 @@ li a {
     margin-top: 0.5em;
     padding: 10px;
     font-size: 13px;
+}
+
+.Disclaimer{
+  text-align: center;
 }
 
 button.choose-file-button {
