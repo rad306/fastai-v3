@@ -11,12 +11,13 @@ ul {
 
 li {
   float: left;
-  color: #ffffff
+  color: #ffffff;
 }
 
 li a {
   display: block;
   padding: 8px;
+  color: #ffffff;
 }
 
 .no-display {
